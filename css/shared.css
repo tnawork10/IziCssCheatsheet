@@ -1,0 +1,7 @@
+.bordered {
+    border: 0.5dvh solid black;
+}
+
+body {
+    border: 0.1dvh solid aqua;
+}
