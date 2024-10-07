@@ -1,0 +1,12 @@
+input,
+textarea {
+    /* overflow: hidden; */
+    /* overflow-y: hidden; */
+    /* overflow: hidden; */
+    background-color: aquamarine;
+    /* resize: none; */
+    overflow-wrap: anywhere;
+    width: 200px;
+    height: max-content;
+    field-sizing: normal;
+}
